@@ -1,27 +1,27 @@
-const Button = ({ buttonLabel, backgroundColor="red" ,name,onclick}) => {
+// const Button = ({ buttonLabel, backgroundColor="red" ,name,onclick}) => {
   
    
-  return (
+//   return (
 
     
-    // <button
+//     // <button
       
     
     
-    //   style={{
-    //     backgroundColor: backgroundColor,
-    //   }}
-    // >
-    //   {buttonLabel}
-    //   {onclick}
+//     //   style={{
+//     //     backgroundColor: backgroundColor,
+//     //   }}
+//     // >
+//     //   {buttonLabel}
+//     //   {onclick}
       
       
-    // </button>
-  );
+//     // </button>
+//   );
   
   
 
   
   
-};
-export default Button;
+// };
+// export default Button;
